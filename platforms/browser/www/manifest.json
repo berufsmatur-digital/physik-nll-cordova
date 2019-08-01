@@ -1,0 +1,37 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Physik NLL",
+  "short_name": "Physik NLL",
+  "version": "digital.inforama.physik-nll",
+  "description": "Physik für die Berufsmaturität NLL",
+  "author": "Inforama digital",
+  "icons": [
+    {
+      "src": "www\\res\\mipmap-mdpi\\ic_launcher.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "www\\res\\mipmap-hdpi\\ic_launcher.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "www\\res\\mipmap-xhdpi\\ic_launcher.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "www\\res\\mipmap-xxhdpi\\ic_launcher.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "www\\res\\mipmap-xxxhdpi\\ic_launcher.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}

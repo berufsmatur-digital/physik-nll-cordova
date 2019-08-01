@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-packageName="digital.inforama.physik-nll-android" id="digital.inforama.physik-nll" ios-CFBundleIdentifier="digital.inforama.physik-nll-ios" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Physik NLL</name>
+    <description>
+    Physik für die Berufsmaturität NLL
+  </description>
+    <author email="inforama.digital@gmail.com" href="https://github.com/inforama-digital/">
+    Inforama digital
+  </author>
+    <content src="index.html" />
+    <icon density="mdpi" src="www\res\mipmap-mdpi\ic_launcher.png" />
+    <icon density="hdpi" src="www\res\mipmap-hdpi\ic_launcher.png" />
+    <icon density="xhdpi" src="www\res\mipmap-xhdpi\ic_launcher.png" />
+    <icon density="xxhdpi" src="www\res\mipmap-xxhdpi\ic_launcher.png" />
+    <icon density="xxxhdpi" src="www\res\mipmap-xxxhdpi\ic_launcher.png" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+</widget>
